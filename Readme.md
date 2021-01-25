@@ -34,7 +34,7 @@ parameters](https://www.haskell.org/hugs/pages/users_guide/implicit-parameters.h
 
 ## Example: Finite-State Machines
 
-```
+```haskell
 import Finite
 import Finite.TH
 
