@@ -23,7 +23,7 @@ cabal-version:       >=1.10
 
 source-repository head
   type:     git
-  location: https://git.intelligent-conception.de/libraries/finite
+  location: https://github.com/kleinreact/finite
 
 library
 
